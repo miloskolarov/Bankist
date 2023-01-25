@@ -12,7 +12,7 @@ Users are required to fill in the "username" and "pin" fields to access the site
 
 ### 2. Account verification:
 
-The webpage will only be displayed if the provided username matches the generated username and passw2ord.
+The webpage will only be displayed if the provided username matches the generated username and password.
 
 ### 3. Transfer and account balance:
 
