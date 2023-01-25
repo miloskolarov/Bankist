@@ -4,17 +4,17 @@
 
 This project is a simple banking website created as a practice exercise for utilizing JavaScript Array methods. It is a part of Jonas Schmedtmann's course "The Complete JavaScript Course 2023: From Zero to Expert!" and is intended for educational purposes only.
 
-### Features:
+## Features:
 
-1. Login functionality:
+### 1. Login functionality:
 
 Users are required to fill in the "username" and "pin" fields to access the site. The username is generated from the initial letters of the account owner's first, last, and middle name, while the password is provided in the account object.
 
-2. Account verification:
+### 2. Account verification:
 
 The webpage will only be displayed if the provided username matches the generated username and passw2ord.
 
-3. Transfer and account balance:
+### 3. Transfer and account balance:
 
 The website includes the following functionalities:
 
