@@ -35,9 +35,9 @@ The Bankist can be accessed on GitHub Pages by following the link:
 
 You can log in by using one of the following accounts:
 
-Jonas Schmedtmann: username: js; password: 1111
-Jessica Davis: username: jd; password:2222
-Steven Thomas Williams: username: stw; password:3333
+Jonas Schmedtmann: username: js; password: 1111  
+Jessica Davis: username: jd; password:2222  
+Steven Thomas Williams: username: stw; password:3333  
 Sarah Smith: username: ss; password: 4444
 
 ### b. Downloading a local copy
